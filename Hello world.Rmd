@@ -1,0 +1,9 @@
+---
+title: "Rmark hello world"
+author: "Me"
+date: "19/05/2021"
+output: word_document
+---
+
+hello World
+##This is a markdown file
